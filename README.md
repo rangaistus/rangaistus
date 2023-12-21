@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer - Coding is fun!
 -----------------------------------
 
-I’ve been learning to code for 3 years now, still in a course but almost finished it. I started HTML, CSS, JS at school but I had a passion for backend development and that’s why I choose backend course.
+I've been learning to code for 3 years now, still in a course but almost finished with it. I started with HTML, CSS, and JS at school, but I developed a passion for backend development, which is why I chose a backend course at my school.
 
 * 🌍  I'm based in The Hague
 * ✉️  You can contact me at [emirhanbyc12@gmail.com](mailto:emirhanbyc12@gmail.com)
